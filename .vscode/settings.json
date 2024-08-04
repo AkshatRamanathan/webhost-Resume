@@ -1,0 +1,3 @@
+{
+    "phpserver.phpPath": "path/to/your/php", // Adjust this path to your PHP executable
+}
